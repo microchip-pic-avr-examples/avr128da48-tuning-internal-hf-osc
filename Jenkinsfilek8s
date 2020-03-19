@@ -3,7 +3,7 @@ pipeline {
         kubernetes {
             label 'avr128da48-tuning-internal-hf-osc'
 			defaultContainer 'debian'
-            yamlFile 'cloudprovider.yml'
+            yamlFile 'cloudprovider.yml'    
         }
     }
 
