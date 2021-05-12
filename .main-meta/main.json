@@ -4,7 +4,7 @@
     "content": {
         "metaDataVersion": "1.1.0",
         "name": "com.microchip.mcu8.studio.project.avr128da48-tuning-internal-hf-osc",
-        "version": "1.0.2",
+        "version": "1.0.3",
         "displayName": "Internal High-Frequency Oscillator Calibration Using the Auto-Tune Feature",
         "projectName": "avr128da48-tuning-internal-hf-osc",
         "shortDescription": "This repository contains a Microchip Studio source code example for how use the Auto-Tune feature to calibrate the Internal High-Frequency Oscillator",
